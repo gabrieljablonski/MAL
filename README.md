@@ -1,3 +1,2 @@
 # MAL
-Disciplina de Aprendizagem de Máquina
-Machine Learning
+Disciplina de Aprendizagem de Máquina/Machine Learning
