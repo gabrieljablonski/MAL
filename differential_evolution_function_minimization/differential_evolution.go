@@ -31,6 +31,7 @@ const (
 
 var xRange = Vector1D{-5.12, 5.12}
 
+// f(x) = 17d + sum(xi^2 - 10*cos(2π*xi + 1) for xi in x)
 func f(x Vector1D) float64 {
 	y := float64(17 * D)
 	for _, xi := range x {
