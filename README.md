@@ -9,4 +9,6 @@ Subjects covered:
 * K-means
 * Differential Evolution
 
-Final project: audio-based human emotion classification on the [**Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)**](https://zenodo.org/record/1188976 "RAVDESS").
+Final project: audio-based human emotion classification on the [**Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)**](https://zenodo.org/record/1188976 "RAVDESS"). 
+
+[Paper](https://github.com/gabrieljablonski/MAL-College-Course-Work/blob/master/paper_emotion_classification.pdf) (in portuguese).
